@@ -1,0 +1,2 @@
+- calculate quantity to weight ratio
+- prepare recipe scanner with ingredients approval

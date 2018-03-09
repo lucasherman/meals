@@ -1,0 +1,1 @@
+sudo apt-get install python3-setuptools python-pygame python3-opengl python-gst0.10 python3-enchant gstreamer0.10-plugins-good python-dev build-essential libgl1-mesa-dev libgles2-mesa-dev python3-pip libgstreamer1.0-dev
