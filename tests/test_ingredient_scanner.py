@@ -1,11 +1,7 @@
 # -*- coding: utf-8 -*-
-import sys, os
-sys.path.append(os.getcwd())
-print(sys.path)
-
 from unittest import TestCase
-from ingredient import Ingredient, IngredientScanner
-from product_base import piers_z_kurczaka_z_ryzem, jajecznica_na_boczku, twarog_z_owocami
+from classes.ingredient import IngredientScanner
+
 
 class IngredientScannerTest(TestCase):
 

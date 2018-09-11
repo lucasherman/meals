@@ -1,4 +1,4 @@
-from product import Macros
+from classes.product import Macros
 
 class Meal:
 
