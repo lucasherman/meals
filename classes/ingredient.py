@@ -68,7 +68,8 @@ class IngredientScanner:
                 food_product = ' '.join(words[1:])
                 weight_unit = None
 
-            ingredient = Ingredient(food_product, amount, weight_unit, amount_type)
+            ingredient = Ingredient(
+                food_product, amount, weight_unit, amount_type)
             ingredient_list.append(ingredient)
 
         return ingredient_list
